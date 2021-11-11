@@ -1,0 +1,44 @@
+#aside{
+    color:red;
+    text-align: right;
+    display: inline;
+    border: 3px;
+    float:right;
+}
+#header{
+    text-align: center;
+    color:wheat;
+    border: 3px;
+    background-color: coral;
+}
+#nav{
+     text-align: center;
+     color: brown;
+     border: 3px;
+     background-color: crimson;
+     
+}
+#section{
+    text-align: left;
+    color: chocolate;
+    display: inline;
+    border: 3px;
+    float:left;
+    background-color: darkgrey;
+}
+#footer{
+    display: block;
+    text-align: center;
+    color: darkgreen;
+    border: 3px;
+    background-color: black;
+    color:white;
+}
+#article{
+    display: inline;
+    color: darkmagenta;
+    border: 3px;
+
+    
+}
+
